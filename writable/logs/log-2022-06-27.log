@@ -1,0 +1,408 @@
+CRITICAL - 2022-06-27 00:57:10 --> Too few arguments to function App\Controllers\User::delete(), 0 passed in C:\xampp\htdocs\Tnc\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\User.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->delete()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 00:58:22 --> Too few arguments to function App\Controllers\User::delete(), 0 passed in C:\xampp\htdocs\Tnc\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\User.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->delete()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 00:59:50 --> Too few arguments to function App\Controllers\User::delete(), 0 passed in C:\xampp\htdocs\Tnc\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\User.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->delete()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 01:00:35 --> Too few arguments to function App\Controllers\User::delete(), 0 passed in C:\xampp\htdocs\Tnc\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\User.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->delete()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 01:06:04 --> Too few arguments to function App\Controllers\User::delete(), 0 passed in C:\xampp\htdocs\Tnc\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\User.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->delete()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 01:11:07 --> Too few arguments to function App\Controllers\User::delete(), 0 passed in C:\xampp\htdocs\Tnc\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\User.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->delete()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 01:15:08 --> Too few arguments to function App\Controllers\User::delete(), 0 passed in C:\xampp\htdocs\Tnc\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\User.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->delete()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 01:16:28 --> Too few arguments to function App\Controllers\User::deletes(), 0 passed in C:\xampp\htdocs\Tnc\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\User.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->deletes()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 01:18:08 --> Too few arguments to function App\Controllers\User::deletes(), 0 passed in C:\xampp\htdocs\Tnc\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\User.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->deletes()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 06:41:18 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\ajaxstudent.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ajaxstudent.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ajaxstudent')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(13): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ajaxstudent')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->store()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 06:42:13 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\ajaxstudent.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ajaxstudent.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ajaxstudent')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(13): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ajaxstudent')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->store()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 06:50:24 --> Undefined variable $students
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 20.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->store()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 06:52:15 --> Undefined variable $students
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 20.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->store()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 06:53:28 --> Undefined variable $students
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 20.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->store()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 06:59:06 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\ajaxstudent.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ajaxstudent.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ajaxstudent')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(8): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ajaxstudent')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:00:39 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\ajaxstudent.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ajaxstudent.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ajaxstudent')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(8): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ajaxstudent')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:04:09 --> Class "App\Controllers\AjaxStudentModel" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:04:29 --> Class "App\Controllers\AjaxStudentModel" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:04:45 --> Class "App\Controllers\AjaxStudentModel" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:05:05 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(8): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:05:22 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(8): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:06:14 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(8): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:06:32 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(8): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:10:55 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(8): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:14:19 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(8): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:16:50 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(8): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:16:58 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(8): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:19:07 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(8): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:21:38 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(7): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:22:27 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(7): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:25:30 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(7): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:26:36 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(7): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:26:57 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxStudentModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxStudentModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxStudentModel')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(7): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxStudentModel')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:32:59 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:33:26 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:34:49 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:35:36 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:37:25 --> Unclosed '{' on line 5
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 28.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Ajaxstudentcontroller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ajaxstudentcontroller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ajaxstudentcontroller')
+ 4 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\Ajaxstudentcontroller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:37:26 --> Unclosed '{' on line 5
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 28.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Ajaxstudentcontroller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ajaxstudentcontroller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ajaxstudentcontroller')
+ 4 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\Ajaxstudentcontroller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:38:32 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:39:04 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:41:51 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:46:30 --> Class "App\Controllers\Ajaxstudent" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->store()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:48:05 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:51:02 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:51:37 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:54:21 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:54:38 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:58:00 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 07:58:06 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 08:02:06 --> Class "App\Controllers\AjaxMod" not found
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 08:04:38 --> syntax error, unexpected identifier "extands", expecting "{"
+in APPPATH\Models\AjaxMod.php on line 4.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\AjaxMod.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\AjaxMod')
+ 3 APPPATH\Controllers\Ajaxstudentcontroller.php(7): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\AjaxMod')
+ 4 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Ajaxstudentcontroller->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-06-27 08:06:45 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-06-27 08:07:24 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-06-27 08:08:10 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-06-27 08:09:15 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-06-27 08:11:41 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-06-27 08:58:35 --> syntax error, unexpected token "if"
+in APPPATH\Config\Routes.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(415): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 13:42:10 --> syntax error, unexpected end of file
+in APPPATH\Views\ajaxstudent\index.php on line 164.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 3 APPPATH\Config\Routes.php(52): view('ajaxstudent/index')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-27 14:30:20 --> View themes, no current section.
+in SYSTEMPATH\View\View.php on line 392.
+ 1 APPPATH\Views\ajaxstudent\index.php(183): CodeIgniter\View\View->endSection()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ajaxstudent\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 5 APPPATH\Config\Routes.php(52): view('ajaxstudent/index')
+ 6 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

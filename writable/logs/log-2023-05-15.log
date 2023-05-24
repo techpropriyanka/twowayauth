@@ -1,0 +1,52 @@
+CRITICAL - 2023-05-15 02:24:18 --> Undefined array key "status"
+in APPPATH\Controllers\Admin.php on line 37.
+ 1 APPPATH\Controllers\Admin.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "status"', 'APPPATH\\Controllers\\Admin.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin->loginath()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 02:24:20 --> Undefined array key "status"
+in APPPATH\Controllers\Admin.php on line 37.
+ 1 APPPATH\Controllers\Admin.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "status"', 'APPPATH\\Controllers\\Admin.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin->loginath()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 02:24:42 --> Undefined array key "status"
+in APPPATH\Controllers\Admin.php on line 37.
+ 1 APPPATH\Controllers\Admin.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "status"', 'APPPATH\\Controllers\\Admin.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin->loginath()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 02:27:16 --> Undefined property: App\Controllers\Admin::$student
+in APPPATH\Controllers\Admin.php on line 92.
+ 1 APPPATH\Controllers\Admin.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$student', 'APPPATH\\Controllers\\Admin.php', 92)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin->dashboard()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 02:28:26 --> Undefined array key "first_name"
+in APPPATH\Views\admin\layout\layout.php on line 65.
+ 1 APPPATH\Views\admin\layout\layout.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "first_name"', 'APPPATH\\Views\\admin\\layout\\layout.php', 65)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin\\layout\\layout.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('admin/layout/layout', [], true)
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('admin/dashboard', [], true)
+ 6 APPPATH\Controllers\Admin.php(94): view('admin/dashboard', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin->dashboard()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 03:08:19 --> syntax error, unexpected identifier "profile_photo", expecting ")"
+in APPPATH\Views\admin\profile.php on line 46.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('admin/profile', [], true)
+ 3 APPPATH\Controllers\Admin.php(111): view('admin/profile', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin->profile()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 04:07:49 --> Cannot declare class App\Models\AdminModel, because the name is already in use
+in APPPATH\Models\UserModel.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

@@ -1,0 +1,18 @@
+CRITICAL - 2022-07-01 06:33:37 --> Invalid file: Awards.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Awards.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Awards', [], true)
+ 3 APPPATH\Config\Routes.php(55): view('Awards')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 06:39:31 --> Invalid file: OurTeam.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('OurTeam.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('OurTeam', [], true)
+ 3 APPPATH\Config\Routes.php(150): view('OurTeam')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

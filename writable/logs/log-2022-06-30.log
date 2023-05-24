@@ -1,0 +1,188 @@
+CRITICAL - 2022-06-30 02:17:04 --> Invalid file: ajaxstudent/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ajaxstudent/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 3 APPPATH\Config\Routes.php(41): view('ajaxstudent/index')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 02:18:05 --> Invalid file: ajaxstudent/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ajaxstudent/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 3 APPPATH\Config\Routes.php(41): view('ajaxstudent/index')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 02:18:07 --> Invalid file: ajaxstudent/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ajaxstudent/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 3 APPPATH\Config\Routes.php(41): view('ajaxstudent/index')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 02:18:08 --> Invalid file: ajaxstudent/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ajaxstudent/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 3 APPPATH\Config\Routes.php(41): view('ajaxstudent/index')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 02:18:27 --> Invalid file: ajaxstudent/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ajaxstudent/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 3 APPPATH\Config\Routes.php(41): view('ajaxstudent/index')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 02:18:27 --> Invalid file: ajaxstudent/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ajaxstudent/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 3 APPPATH\Config\Routes.php(41): view('ajaxstudent/index')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 02:18:28 --> Invalid file: ajaxstudent/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ajaxstudent/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 3 APPPATH\Config\Routes.php(41): view('ajaxstudent/index')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 02:18:31 --> Invalid file: ajaxstudent/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ajaxstudent/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 3 APPPATH\Config\Routes.php(41): view('ajaxstudent/index')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 02:18:34 --> Invalid file: ajaxstudent/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ajaxstudent/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 3 APPPATH\Config\Routes.php(41): view('ajaxstudent/index')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 02:18:34 --> Invalid file: ajaxstudent/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ajaxstudent/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 3 APPPATH\Config\Routes.php(41): view('ajaxstudent/index')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 02:24:37 --> Invalid file: ajaxstudent/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ajaxstudent/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 3 APPPATH\Config\Routes.php(41): view('ajaxstudent/index')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 02:24:40 --> Invalid file: ajaxstudent/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ajaxstudent/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ajaxstudent/index', [], true)
+ 3 APPPATH\Config\Routes.php(41): view('ajaxstudent/index')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 04:02:22 --> Invalid file: 15th year celebration.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('15th year celebration.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('15th year celebration', [], true)
+ 3 APPPATH\Config\Routes.php(41): view('15th year celebration')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 05:50:56 --> syntax error, unexpected identifier "s", expecting ")"
+in APPPATH\Config\Routes.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(415): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 05:51:18 --> syntax error, unexpected identifier "s", expecting ")"
+in APPPATH\Config\Routes.php on line 133.
+ 1 SYSTEMPATH\CodeIgniter.php(415): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 05:51:32 --> syntax error, unexpected identifier "s", expecting ")"
+in APPPATH\Config\Routes.php on line 133.
+ 1 SYSTEMPATH\CodeIgniter.php(415): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 05:51:42 --> syntax error, unexpected identifier "s", expecting ")"
+in APPPATH\Config\Routes.php on line 133.
+ 1 SYSTEMPATH\CodeIgniter.php(415): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 05:53:47 --> syntax error, unexpected identifier "s", expecting ")"
+in APPPATH\Config\Routes.php on line 133.
+ 1 SYSTEMPATH\CodeIgniter.php(415): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 05:53:53 --> syntax error, unexpected identifier "s", expecting ")"
+in APPPATH\Config\Routes.php on line 133.
+ 1 SYSTEMPATH\CodeIgniter.php(415): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 05:58:22 --> Invalid file: LucknowBranch.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('LucknowBranch.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('LucknowBranch', [], true)
+ 3 APPPATH\Config\Routes.php(138): view('LucknowBranch')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 06:27:00 --> Invalid file: TNCAwards2019.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('TNCAwards2019.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('TNCAwards2019', [], true)
+ 3 APPPATH\Config\Routes.php(181): view('TNCAwards2019')
+ 4 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 08:42:51 --> Undefined constant "y"
+in APPPATH\Views\layout\header.php on line 188.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/header.php', [], true)
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Config\Routes.php(42): view('index')
+ 6 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 08:43:57 --> Undefined variable $date
+in APPPATH\Views\layout\header.php on line 188.
+ 1 APPPATH\Views\layout\header.php(188): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $date', 'APPPATH\\Views\\layout\\header.php', 188)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/header.php', [], true)
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('index', [], true)
+ 6 APPPATH\Config\Routes.php(42): view('index')
+ 7 SYSTEMPATH\CodeIgniter.php(837): CodeIgniter\CodeIgniter->Config\{closure}()
+ 8 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

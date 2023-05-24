@@ -1,0 +1,18 @@
+CRITICAL - 2023-05-20 04:10:05 --> Unclosed '{' on line 38
+in APPPATH\Views\eventlist.php on line 83.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('eventlist', [], true)
+ 3 APPPATH\Controllers\Admin.php(22): view('eventlist', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin->eventlist()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-20 11:32:42 --> Unclosed '{' on line 30
+in APPPATH\Views\eventlist.php on line 58.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('eventlist', [], true)
+ 3 APPPATH\Controllers\Admin.php(22): view('eventlist', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin->eventlist()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

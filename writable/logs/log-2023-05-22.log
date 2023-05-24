@@ -1,0 +1,52 @@
+CRITICAL - 2023-05-22 15:23:07 --> Undefined array key "email"
+in APPPATH\Views\dashboard.php on line 34.
+ 1 APPPATH\Views\dashboard.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "email"', 'APPPATH\\Views\\dashboard.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\User.php(124): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-22 15:24:11 --> Undefined array key "emaild_id"
+in APPPATH\Views\dashboard.php on line 34.
+ 1 APPPATH\Views\dashboard.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "emaild_id"', 'APPPATH\\Views\\dashboard.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\User.php(124): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-22 15:24:17 --> Undefined array key "emaild_id"
+in APPPATH\Views\dashboard.php on line 34.
+ 1 APPPATH\Views\dashboard.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "emaild_id"', 'APPPATH\\Views\\dashboard.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\User.php(124): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-22 15:31:39 --> Invalid file: user/changepassword.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/changepassword.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user/changepassword', [], true)
+ 3 APPPATH\Controllers\User.php(163): view('user/changepassword', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->changepassword()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-22 15:31:53 --> Invalid file: user/layout/layout.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/layout/layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('user/layout/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('changepassword', [], true)
+ 4 APPPATH\Controllers\User.php(163): view('changepassword', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->changepassword()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,460 @@
+CRITICAL - 2023-05-18 03:23:41 --> require(../facebookapp/src/Facebook/facebook.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\User.php on line 251.
+ 1 APPPATH\Controllers\User.php(251): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../facebookapp/src/Facebook/facebook.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\User.php', 251)
+ 2 APPPATH\Controllers\User.php(251): require()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 03:24:18 --> require(../facebookapp/src/Facebook/facebook.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\User.php on line 12.
+ 1 APPPATH\Controllers\User.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../facebookapp/src/Facebook/facebook.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\User.php', 12)
+ 2 APPPATH\Controllers\User.php(12): require()
+ 3 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\User->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 03:24:27 --> require(facebookapp/src/Facebook/facebook.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\User.php on line 12.
+ 1 APPPATH\Controllers\User.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(facebookapp/src/Facebook/facebook.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\User.php', 12)
+ 2 APPPATH\Controllers\User.php(12): require()
+ 3 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\User->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 03:26:46 --> require(../facebookapp/src/Facebook/Facebook.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\User.php on line 12.
+ 1 APPPATH\Controllers\User.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../facebookapp/src/Facebook/Facebook.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\User.php', 12)
+ 2 APPPATH\Controllers\User.php(12): require()
+ 3 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\User->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 03:28:05 --> require(facebookapp/src/Facebook/Facebook.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\User.php on line 13.
+ 1 APPPATH\Controllers\User.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(facebookapp/src/Facebook/Facebook.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\User.php', 13)
+ 2 APPPATH\Controllers\User.php(13): require()
+ 3 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\User->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 03:28:11 --> require(src/Facebook/Facebook.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\User.php on line 13.
+ 1 APPPATH\Controllers\User.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(src/Facebook/Facebook.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\User.php', 13)
+ 2 APPPATH\Controllers\User.php(13): require()
+ 3 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\User->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 03:28:47 --> require_once(src/Facebook/Facebook.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\User.php on line 13.
+ 1 APPPATH\Controllers\User.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(src/Facebook/Facebook.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\User.php', 13)
+ 2 APPPATH\Controllers\User.php(13): require_once()
+ 3 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\User->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 03:29:04 --> require_once(facebookapp/src/Facebook/Facebook.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\User.php on line 12.
+ 1 APPPATH\Controllers\User.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(facebookapp/src/Facebook/Facebook.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\User.php', 12)
+ 2 APPPATH\Controllers\User.php(12): require_once()
+ 3 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\User->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 03:29:14 --> require_once(../facebookapp/src/Facebook/Facebook.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\User.php on line 12.
+ 1 APPPATH\Controllers\User.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(../facebookapp/src/Facebook/Facebook.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\User.php', 12)
+ 2 APPPATH\Controllers\User.php(12): require_once()
+ 3 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\User->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 03:31:09 --> require_once(../facebookapp/src/Facebook/Facebook.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\User.php on line 251.
+ 1 APPPATH\Controllers\User.php(251): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(../facebookapp/src/Facebook/Facebook.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\User.php', 251)
+ 2 APPPATH\Controllers\User.php(251): require_once()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 03:38:22 --> require_once(facebookapp/src/Facebook/autoload.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\User.php on line 251.
+ 1 APPPATH\Controllers\User.php(251): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(facebookapp/src/Facebook/autoload.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\User.php', 251)
+ 2 APPPATH\Controllers\User.php(251): require_once()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 03:41:50 --> require_once(../facebookapp/src/Facebook/autoload.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\User.php on line 251.
+ 1 APPPATH\Controllers\User.php(251): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(../facebookapp/src/Facebook/autoload.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\User.php', 251)
+ 2 APPPATH\Controllers\User.php(251): require_once()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:06:02 --> Class "App\Controllers\Facebook\Facebook" not found
+in APPPATH\Controllers\User.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:08:14 --> Class "App\Controllers\facebookapp\src\Facebook\Facebook\Facebook" not found
+in APPPATH\Controllers\User.php on line 253.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:09:21 --> Class "App\Controllers\facebookapp\src\Facebook\Facebook\Facebook" not found
+in APPPATH\Controllers\User.php on line 253.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:11:20 --> Undefined variable $fil
+in APPPATH\Controllers\User.php on line 286.
+ 1 APPPATH\Controllers\User.php(286): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fil', 'APPPATH\\Controllers\\User.php', 286)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:12:23 --> Class "App\Controllers\Facebook" not found
+in APPPATH\Controllers\User.php on line 287.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:19:02 --> Class "Facebook\Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 139.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:22:28 --> Class "Facebook\Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 139.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:22:33 --> Class "Facebook\Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 139.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:22:40 --> Class "Facebook\Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 139.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:24:01 --> Class "Facebook\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 139.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:24:20 --> Class "Facebook\Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 139.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:45:32 --> syntax error, unexpected floating-point number ".6", expecting "]"
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 130.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:45:47 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:47:38 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:47:49 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:48:20 --> Class "App\Controllers\Facebook\Facebook" not found
+in APPPATH\Controllers\User.php on line 288.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:48:36 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:52:42 --> Class "Facebook\Facebook" not found
+in APPPATH\Controllers\User.php on line 288.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:52:52 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:53:48 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:55:20 --> Class "App\Controllers\Facebook\Facebook" not found
+in APPPATH\Controllers\User.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:55:52 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(252): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:56:12 --> Class "FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(252): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:56:23 --> Class "Facebook\Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(252): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:56:33 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(252): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:56:37 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(252): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:57:06 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(252): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 04:57:09 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(252): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:04:40 --> Class "App\Controllers\Facebook\Facebook\Facebook" not found
+in APPPATH\Controllers\User.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:04:51 --> Class "Facebook\Facebook\Facebook" not found
+in APPPATH\Controllers\User.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:05:01 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(252): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:05:13 --> Class "App\Controllers\Facebook" not found
+in APPPATH\Controllers\User.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:05:22 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(252): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:05:53 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:05:55 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:09:18 --> Class "Facebook\Exceptions\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 146.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:09:42 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 146.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:10:01 --> Class "FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 146.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:11:43 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 146.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:11:53 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 146.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:12:09 --> Class "Facebook\FacebookApp" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 145.
+ 1 APPPATH\Controllers\User.php(288): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:20:07 --> Class "Facebook\Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 139.
+ 1 APPPATH\Controllers\User.php(289): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:20:45 --> Class "Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 139.
+ 1 APPPATH\Controllers\User.php(289): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:20:47 --> Class "Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 139.
+ 1 APPPATH\Controllers\User.php(289): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:20:53 --> Class "Facebook\Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 139.
+ 1 APPPATH\Controllers\User.php(289): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:24:10 --> Class "Facebook\Facebook" not found
+in APPPATH\Controllers\User.php on line 289.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:24:28 --> Class "App\Controllers\Facebook" not found
+in APPPATH\Controllers\User.php on line 289.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:24:40 --> Class "Facebook\Facebook" not found
+in APPPATH\Controllers\User.php on line 289.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:24:59 --> Class "Facebook\Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 139.
+ 1 APPPATH\Controllers\User.php(289): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:30:08 --> Class "Facebook\Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 139.
+ 1 APPPATH\Controllers\User.php(289): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:30:12 --> Class "Facebook\Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 139.
+ 1 APPPATH\Controllers\User.php(289): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:31:40 --> Class "Facebook\Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 140.
+ 1 APPPATH\Controllers\User.php(289): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:42:15 --> Class "Facebook\Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 140.
+ 1 APPPATH\Controllers\User.php(289): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-18 05:42:55 --> Class "Facebook\Exceptions\FacebookSDKException" not found
+in APPPATH\ThirdParty\facebookapp\src\Facebook\Facebook.php on line 140.
+ 1 APPPATH\Controllers\User.php(289): Facebook\Facebook->__construct([...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->uploadonfacebook()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

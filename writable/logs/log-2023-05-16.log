@@ -1,0 +1,61 @@
+CRITICAL - 2023-05-16 02:02:11 --> Invalid file: admin/createpost.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/createpost.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('admin/createpost', [], true)
+ 3 APPPATH\Controllers\User.php(96): view('admin/createpost', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->createpost()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-16 02:02:46 --> Invalid file: admin/createpost.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/createpost.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('admin/createpost', [], true)
+ 3 APPPATH\Controllers\User.php(96): view('admin/createpost', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->createpost()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-16 02:29:20 --> Table 'tnc.posts' doesn't exist
+CRITICAL - 2023-05-16 03:10:46 --> Undefined array key "name"
+in APPPATH\Views\user\layout\layout.php on line 65.
+ 1 APPPATH\Views\user\layout\layout.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\user\\layout\\layout.php', 65)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user\\layout\\layout.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('user/layout/layout', [], true)
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user/createpost', [], true)
+ 6 APPPATH\Controllers\User.php(98): view('user/createpost', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->createpost()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-16 16:18:49 --> Call to a member function isValid() on null
+in APPPATH\Controllers\User.php on line 111.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->savepost()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-16 16:19:31 --> Call to a member function isValid() on null
+in APPPATH\Controllers\User.php on line 111.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->savepost()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-16 16:20:34 --> Call to a member function isValid() on null
+in APPPATH\Controllers\User.php on line 110.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->savepost()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-16 16:22:57 --> Call to a member function isValid() on null
+in APPPATH\Controllers\User.php on line 110.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->savepost()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-16 16:23:33 --> Call to a member function isValid() on null
+in APPPATH\Controllers\User.php on line 110.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\User->savepost()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

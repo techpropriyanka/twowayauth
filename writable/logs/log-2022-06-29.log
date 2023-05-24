@@ -1,0 +1,322 @@
+CRITICAL - 2022-06-29 00:29:45 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 64.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 64)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 00:29:49 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 64.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 64)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 00:30:04 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 64.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 64)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 00:30:05 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 64.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 64)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 00:30:06 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 64.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 64)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 00:30:06 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 64.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 64)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 00:30:42 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 64.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 64)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 00:32:38 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 64.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 64)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 00:32:39 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 64.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 64)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 00:32:58 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 64.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 64)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 00:36:58 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 64.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 64)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 01:41:59 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 71.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 01:42:00 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 71.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 01:48:49 --> Undefined variable $data
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 80.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 02:04:17 --> Undefined variable $stus_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 73.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stus_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 02:05:17 --> Undefined variable $stud_id
+in APPPATH\Controllers\Ajaxstudentcontroller.php on line 73.
+ 1 APPPATH\Controllers\Ajaxstudentcontroller.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Ajaxstudentcontroller.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ajaxstudentcontroller->delete1()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxstudentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 07:22:36 --> syntax error, unexpected token "=>"
+in APPPATH\Controllers\ImgController.php on line 19.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\ImgController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImgController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImgController')
+ 4 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\ImgController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 07:24:24 --> syntax error, unexpected token "=>"
+in APPPATH\Controllers\ImgController.php on line 15.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\ImgController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImgController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImgController')
+ 4 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\ImgController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 07:26:59 --> syntax error, unexpected token "=>"
+in APPPATH\Controllers\ImgController.php on line 15.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\ImgController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImgController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImgController')
+ 4 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\ImgController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 07:28:06 --> syntax error, unexpected token "."
+in APPPATH\Controllers\ImgController.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\ImgController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImgController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImgController')
+ 4 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\ImgController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 07:28:22 --> syntax error, unexpected token "."
+in APPPATH\Controllers\ImgController.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\ImgController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImgController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImgController')
+ 4 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\ImgController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 07:29:11 --> syntax error, unexpected identifier "print_r", expecting "," or ";"
+in APPPATH\Controllers\ImgController.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\ImgController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImgController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImgController')
+ 4 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\ImgController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 07:55:58 --> Undefined variable $banner
+in APPPATH\Controllers\ImgController.php on line 38.
+ 1 APPPATH\Controllers\ImgController.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $banner', 'APPPATH\\Controllers\\ImgController.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 07:57:00 --> Call to a member function isValid() on null
+in APPPATH\Controllers\ImgController.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 07:59:59 --> Call to a member function isValid() on null
+in APPPATH\Controllers\ImgController.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:03:25 --> Undefined property: App\Controllers\ImgController::$ajaxstudent
+in APPPATH\Controllers\ImgController.php on line 54.
+ 1 APPPATH\Controllers\ImgController.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImgController::$ajaxstudent', 'APPPATH\\Controllers\\ImgController.php', 54)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:03:53 --> Undefined variable $benner
+in APPPATH\Controllers\ImgController.php on line 29.
+ 1 APPPATH\Controllers\ImgController.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $benner', 'APPPATH\\Controllers\\ImgController.php', 29)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:05:59 --> Undefined property: App\Controllers\ImgController::$ajaxstudent
+in APPPATH\Controllers\ImgController.php on line 56.
+ 1 APPPATH\Controllers\ImgController.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImgController::$ajaxstudent', 'APPPATH\\Controllers\\ImgController.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:07:13 --> Undefined property: App\Controllers\ImgController::$ajaxstudent
+in APPPATH\Controllers\ImgController.php on line 56.
+ 1 APPPATH\Controllers\ImgController.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImgController::$ajaxstudent', 'APPPATH\\Controllers\\ImgController.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:10:30 --> Undefined variable $thumbnail_image_name
+in APPPATH\Controllers\ImgController.php on line 34.
+ 1 APPPATH\Controllers\ImgController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $thumbnail_image_name', 'APPPATH\\Controllers\\ImgController.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:11:03 --> Undefined variable $thumbnail_image_name
+in APPPATH\Controllers\ImgController.php on line 34.
+ 1 APPPATH\Controllers\ImgController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $thumbnail_image_name', 'APPPATH\\Controllers\\ImgController.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:13:30 --> Call to a member function isValid() on null
+in APPPATH\Controllers\ImgController.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:15:34 --> Undefined variable $thamnail
+in APPPATH\Controllers\ImgController.php on line 28.
+ 1 APPPATH\Controllers\ImgController.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $thamnail', 'APPPATH\\Controllers\\ImgController.php', 28)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:16:23 --> Undefined variable $thamnail
+in APPPATH\Controllers\ImgController.php on line 25.
+ 1 APPPATH\Controllers\ImgController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $thamnail', 'APPPATH\\Controllers\\ImgController.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:17:19 --> Call to a member function isValid() on null
+in APPPATH\Controllers\ImgController.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:18:18 --> Undefined variable $thamnail
+in APPPATH\Controllers\ImgController.php on line 28.
+ 1 APPPATH\Controllers\ImgController.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $thamnail', 'APPPATH\\Controllers\\ImgController.php', 28)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:19:46 --> syntax error, unexpected token "[", expecting variable or "{" or "$"
+in APPPATH\Controllers\ImgController.php on line 33.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\ImgController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImgController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImgController')
+ 4 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\ImgController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:20:03 --> syntax error, unexpected token "[", expecting variable or "{" or "$"
+in APPPATH\Controllers\ImgController.php on line 33.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\ImgController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImgController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImgController')
+ 4 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\ImgController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:20:07 --> syntax error, unexpected token "[", expecting variable or "{" or "$"
+in APPPATH\Controllers\ImgController.php on line 33.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\ImgController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImgController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImgController')
+ 4 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\ImgController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:22:06 --> Undefined property: App\Controllers\ImgController::$ajaxstudent
+in APPPATH\Controllers\ImgController.php on line 44.
+ 1 APPPATH\Controllers\ImgController.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImgController::$ajaxstudent', 'APPPATH\\Controllers\\ImgController.php', 44)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:25:09 --> Undefined property: App\Controllers\ImgController::$ajaxstudent
+in APPPATH\Controllers\ImgController.php on line 46.
+ 1 APPPATH\Controllers\ImgController.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImgController::$ajaxstudent', 'APPPATH\\Controllers\\ImgController.php', 46)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:26:53 --> Undefined property: App\Controllers\ImgController::$ajaxstudent
+in APPPATH\Controllers\ImgController.php on line 42.
+ 1 APPPATH\Controllers\ImgController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImgController::$ajaxstudent', 'APPPATH\\Controllers\\ImgController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:28:39 --> Undefined property: App\Controllers\ImgController::$ajaxstudent
+in APPPATH\Controllers\ImgController.php on line 42.
+ 1 APPPATH\Controllers\ImgController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImgController::$ajaxstudent', 'APPPATH\\Controllers\\ImgController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 08:29:39 --> Undefined property: App\Controllers\ImgController::$ajaxstudent
+in APPPATH\Controllers\ImgController.php on line 42.
+ 1 APPPATH\Controllers\ImgController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImgController::$ajaxstudent', 'APPPATH\\Controllers\\ImgController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ImgController->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImgController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
